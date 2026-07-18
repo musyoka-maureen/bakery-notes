@@ -1,2 +1,3 @@
 BakeryName=> Sweets&Buns
 opening hours => 8:00 Uhr - 18:00 Uhr
+Saturday special=> caramel covered donuts

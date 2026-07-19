@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 BakeryName=> Sweets&Buns
 opening hours => 8:00 Uhr - 18:00 Uhr
 weekend-specials=> Caramelized Donuts
@@ -5,3 +6,11 @@ Sundays we have surprise offers! Drop by...
 Surprise Celebrity pastry chef starting Monday 
 Phone: 030 1234567
 
+=======
+BakeryName=> Sweets&Buns
+opening hours => 8:00 Uhr - 18:00 Uhr
+weekend-specials=> Caramelized Donuts
+Sundays we have surprise offers! Drop by...
+Surprise Celebrity pastry chef starting Monday 
+Phone: 030 1234567
+>>>>>>> ab6afb6bfbc9c64474882f0ede3cecf25973c1d3

@@ -1,10 +1,6 @@
+
 BakeryName=> Sweets&Buns
 opening hours => 8:00 Uhr - 18:00 Uhr
-Saturday special=> caramel covered donuts
+weekend-specials=> Caramelized Donuts
 Sundays we have surprise offers! Drop by...
 Surprise Celebrity pastry chef starting Monday 
-<<<<<<< HEAD
-Phone: 030 1234567
-=======
-Caramelized Donuts
->>>>>>> weekend-specials
